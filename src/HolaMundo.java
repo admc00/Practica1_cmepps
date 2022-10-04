@@ -8,7 +8,9 @@ public class HolaMundo {
 		System.out.println("Bienvenido al curso," + name);
 		
 		System.out.println("Cambio realizado por carlos");
-		
+		for(int i=0;i<10;i++) {
+			System.out.println("hola," + i);
+		}
 	}
 
 }
